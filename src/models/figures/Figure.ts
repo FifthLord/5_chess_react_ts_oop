@@ -5,13 +5,13 @@ import { Cell } from "../Cell";
 
 
 export enum FigureNames {
-   FIGURE = "Фигура",
+   FIGURE = "Фігура",
    KING = "Король",
-   KNIGHT = "Конь",
-   PAWN = "Пешка",
-   QUEEN = "Ферзь",
-   ROOK = "Ладья",
-   BISHOP = "Слон",
+   KNIGHT = "Кінь",
+   PAWN = "Пішак",
+   QUEEN = "Королева",
+   ROOK = "Тура",
+   BISHOP = "Офіцер",
 }
 
 
