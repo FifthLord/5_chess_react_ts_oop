@@ -1,4 +1,4 @@
-# Classic Chess with limited functionality (for now)
+# Classic Chess with timer (for now)
 # App by link
 https://FifthLord.github.io/5_chess_react_ts_oop
 
