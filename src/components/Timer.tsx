@@ -8,8 +8,8 @@ interface TimerProps {
 }
 
 const Timer: FC<TimerProps> = ({ currentPlayer, restart }) => {
-   const [blackTime, setBlackTime] = useState(300);
-   const [whiteTime, setWhiteTime] = useState(300);
+   const [blackTime, setBlackTime] = useState(9000);
+   const [whiteTime, setWhiteTime] = useState(9000);
    const timer = useRef<null | ReturnType<typeof setInterval>>(null)
 
    useEffect(() => {
@@ -31,8 +31,8 @@ const Timer: FC<TimerProps> = ({ currentPlayer, restart }) => {
    }
 
    const handleRestart = () => {
-      setBlackTime(1000)
-      setWhiteTime(1000)
+      setBlackTime(9000)
+      setWhiteTime(9000)
       restart()
    }
 
