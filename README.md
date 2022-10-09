@@ -3,7 +3,7 @@
 https://FifthLord.github.io/5_chess_react_ts_oop
 
 # Technologies in the project
-   Type Script
+   Type Script\
    React
 
 # Getting Started with Create React App
