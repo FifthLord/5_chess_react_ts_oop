@@ -1,10 +1,10 @@
-# Classic Chess with timer (for now)
+# Classic Chess with timer
 # App by link
 https://FifthLord.github.io/5_chess_react_ts_oop
 
 # Technologies in the project
-   Type Script\
-   React
+   - Type Script\
+   - React
 
 # Getting Started with Create React App
 
